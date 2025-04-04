@@ -41,8 +41,9 @@ I'm an **International Applied Computer Science student** who enjoys working on 
 - **ERP Systems**: **Odoo**
 - **MQ (Message Queues)**: **MQ5**
 - **Cloud**: **AWS**, **GCP**
+- **Containers & Orchestration**: **Docker**, **Kubernetes**
 - **Version Control**: Git, GitHub
-- **Operating Systems**: **Linux** (Ubuntu, CentOS)
+- **Operating Systems**: **Linux** (Ubuntu, CentOS, **Kali Linux**)
 
 ---
 
