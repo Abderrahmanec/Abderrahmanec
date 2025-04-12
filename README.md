@@ -9,7 +9,6 @@ I'm an **International Applied Computer Science student** passionate about build
 - 🦾 **Robotic Process Automation (RPA)**: UiPath, intelligent task automation
 - 🧠 Advanced **Machine Learning**, **Deep Learning**
 - 🏗️ **System Design**, Clean Architecture & Microservices
-- ☁️ **Cloud Technologies** (AWS, GCP)
 - 🐍 **R programming** for data science
 - 🧩 Integration of **AI + RPA + Web** in production-level apps
 - 🔐 **Cybersecurity basics** using **Kali Linux**, **Nmap**, and ethical hacking
