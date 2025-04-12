@@ -44,7 +44,6 @@ I'm an **International Applied Computer Science student** passionate about build
 - **Frontend**: React.js, Material UI
 - **Databases**: MySQL, PostgreSQL
 - **ERP**: Odoo Customization
-- **Cloud**: AWS, GCP
 - **Containers**: Docker, Kubernetes
 - **Version Control**: Git, GitHub
 - **RPA**: UiPath (in progress)
